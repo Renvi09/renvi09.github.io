@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website</title>
+    <title>Test</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,13 +14,13 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome </h1>
     </header>
     <main>
-        <p>This is a simple webpage structure.</p>
+       
     </main>
     <footer>
-        <p>&copy; 2025 My Website</p>
+      
     </footer>
 </body>
 </html>
